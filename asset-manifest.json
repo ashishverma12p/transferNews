@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/transferNews/static/css/main.db2ba7a0.chunk.css",
+    "main.js": "/transferNews/static/js/main.ade131ef.chunk.js",
+    "main.js.map": "/transferNews/static/js/main.ade131ef.chunk.js.map",
+    "runtime-main.js": "/transferNews/static/js/runtime-main.019b1286.js",
+    "runtime-main.js.map": "/transferNews/static/js/runtime-main.019b1286.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/transferNews/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.d8e8a8cf.chunk.js": "/transferNews/static/js/2.d8e8a8cf.chunk.js",
+    "static/js/2.d8e8a8cf.chunk.js.map": "/transferNews/static/js/2.d8e8a8cf.chunk.js.map",
+    "index.html": "/transferNews/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/transferNews/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.db2ba7a0.chunk.css.map": "/transferNews/static/css/main.db2ba7a0.chunk.css.map",
+    "static/js/2.d8e8a8cf.chunk.js.LICENSE.txt": "/transferNews/static/js/2.d8e8a8cf.chunk.js.LICENSE.txt",
+    "static/media/Lionel_Messi.6609df91.jpg": "/transferNews/static/media/Lionel_Messi.6609df91.jpg",
+    "static/media/cristiano-ronaldo.46b7410e.jpg": "/transferNews/static/media/cristiano-ronaldo.46b7410e.jpg",
+    "static/media/football-4827746_1920.3103af36.jpg": "/transferNews/static/media/football-4827746_1920.3103af36.jpg",
+    "static/media/harrykane.1a3feb24.jpg": "/transferNews/static/media/harrykane.1a3feb24.jpg",
+    "static/media/jules-kounde.61fb5a1e.jpg": "/transferNews/static/media/jules-kounde.61fb5a1e.jpg",
+    "static/media/raphael-varane.a9531d4d.jpg": "/transferNews/static/media/raphael-varane.a9531d4d.jpg",
+    "static/media/sancho.5c267ce1.jpeg": "/transferNews/static/media/sancho.5c267ce1.jpeg",
+    "static/media/sports-3399852_1920.3ac3c055.png": "/transferNews/static/media/sports-3399852_1920.3ac3c055.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.019b1286.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.d8e8a8cf.chunk.js",
+    "static/css/main.db2ba7a0.chunk.css",
+    "static/js/main.ade131ef.chunk.js"
+  ]
+}
